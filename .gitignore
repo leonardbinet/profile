@@ -1,0 +1,13 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!.bashrc
+!.bash_profile
+!.extra/
+!.extra/*
+
+# But still this one
+.extra/secrets.sh
+.extra/.DS_Store

@@ -1,0 +1,8 @@
+# Activate env located in env/bin/activate
+alias activate="source env/bin/activate"
+
+alias ls='lsd'
+alias ll='lsd -AhFl --group-dirs first'
+
+# github
+eval "$(hub alias -s)"
