@@ -44,3 +44,5 @@ export PATH=$PATH:/usr/local/sbin
 # luigi
 export LUIGI_CONFIG_PATH=~/Alkemics/repositories/service-ml/alk_service_ml/application/config/client.dev.cfg
 
+# git autocompletion
+[[ -r "/usr/local/etc/profile.d/bash_completion.sh" ]] && . "/usr/local/etc/profile.d/bash_completion.sh"
