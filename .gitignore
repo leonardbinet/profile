@@ -12,3 +12,4 @@
 # But still this one
 .extra/secrets.sh
 .extra/.DS_Store
+.extra/alkemics.sh
